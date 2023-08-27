@@ -72,7 +72,8 @@ endmodule
 ## RTL realization
 ![image](https://github.com/DEEPAK2200233/Experiment--02-Implementation-of-combinational-logic-/assets/118707676/67a31f8b-7be4-45c6-8bd3-461aa6c2a410)
 ## Output:
-![image](https://github.com/DEEPAK2200233/Experiment--02-Implementation-of-combinational-logic-/assets/118707676/e4edfe08-eeab-434b-9409-5a80ffa85d06)
+![image](https://github.com/DEEPAK2200233/Experiment--02-Implementation-of-combinational-logic-/assets/118707676/8efb7490-682b-4b21-9982-a520d4f81c62)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
