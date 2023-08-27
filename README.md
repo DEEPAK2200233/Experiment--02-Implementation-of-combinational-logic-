@@ -53,8 +53,8 @@ Check all the gates following the same procedure.
 #Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 #Developed by: DEEPAK RAJ S
 #RegisterNumber: 212222240023
-
-```module EX2(A,B,C,D,F1);
+```
+module EX2(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
 wire X1,X2,X3,X4,X5;
@@ -64,7 +64,8 @@ assign X3=(~B)&(C)&(~D);
 assign X4=(~A)&(B)&(C)&(D);
 assign X5=(B)&(~C)&(D);
 assign F1=X1|X2|X3|X4|X5;
-endmodule```
+endmodule
+```
 ## TRUTH TABLE
 ![image](https://github.com/DEEPAK2200233/Experiment--02-Implementation-of-combinational-logic-/assets/118707676/bd74d49b-faa0-4634-8f8d-216ecb6222bb)
 
